@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             labelCep = new Label();
             buttonPesquisar = new Button();
             maskedTextBoxCep = new MaskedTextBox();
@@ -36,50 +37,37 @@
             // 
             // labelCep
             // 
-            labelCep.AutoSize = true;
-            labelCep.Location = new Point(47, 31);
+            resources.ApplyResources(labelCep, "labelCep");
             labelCep.Name = "labelCep";
-            labelCep.Size = new Size(75, 15);
-            labelCep.TabIndex = 0;
-            labelCep.Text = "Digite o Cep:";
             // 
             // buttonPesquisar
             // 
-            buttonPesquisar.Location = new Point(47, 171);
+            resources.ApplyResources(buttonPesquisar, "buttonPesquisar");
             buttonPesquisar.Name = "buttonPesquisar";
-            buttonPesquisar.Size = new Size(75, 23);
-            buttonPesquisar.TabIndex = 1;
-            buttonPesquisar.Text = "Pesquisar";
             buttonPesquisar.UseVisualStyleBackColor = true;
             buttonPesquisar.Click += buttonPesquisar_Click;
             // 
             // maskedTextBoxCep
             // 
-            maskedTextBoxCep.Location = new Point(33, 49);
+            resources.ApplyResources(maskedTextBoxCep, "maskedTextBoxCep");
             maskedTextBoxCep.Name = "maskedTextBoxCep";
-            maskedTextBoxCep.Size = new Size(100, 23);
-            maskedTextBoxCep.TabIndex = 4;
             // 
             // richTextBoxResultado
             // 
-            richTextBoxResultado.Location = new Point(260, 28);
+            resources.ApplyResources(richTextBoxResultado, "richTextBoxResultado");
             richTextBoxResultado.Name = "richTextBoxResultado";
             richTextBoxResultado.ReadOnly = true;
-            richTextBoxResultado.Size = new Size(400, 166);
-            richTextBoxResultado.TabIndex = 5;
-            richTextBoxResultado.Text = "";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            resources.ApplyResources(this, "$this");
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(699, 244);
             Controls.Add(richTextBoxResultado);
             Controls.Add(maskedTextBoxCep);
             Controls.Add(buttonPesquisar);
             Controls.Add(labelCep);
+            MaximizeBox = false;
             Name = "Form1";
-            Text = "Form1";
             ResumeLayout(false);
             PerformLayout();
         }

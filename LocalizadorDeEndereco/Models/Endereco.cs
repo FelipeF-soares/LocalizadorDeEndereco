@@ -21,6 +21,6 @@ public class Endereco
 
     public override string ToString()
     {
-        return $"cep: {Cep} \nlogradouro: {Logradouro} \n";
+        return $"\ncep: {Cep} \nlogradouro: {Logradouro} \ncomplemento: {Complemento}\nbairro: {Bairro}\ncidade: {Localidade}\nUF: {Uf}";
     }
 }

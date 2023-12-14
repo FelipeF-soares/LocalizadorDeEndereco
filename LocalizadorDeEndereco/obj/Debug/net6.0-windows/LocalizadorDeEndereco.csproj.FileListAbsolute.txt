@@ -20,3 +20,6 @@ C:\github\LocalizadorDeEndereco\LocalizadorDeEndereco\bin\Debug\net6.0-windows\N
 C:\github\LocalizadorDeEndereco\LocalizadorDeEndereco\bin\Debug\net6.0-windows\ViaCep.dll
 C:\github\LocalizadorDeEndereco\LocalizadorDeEndereco\obj\Debug\net6.0-windows\LocalizadorDeEndereco.csproj.AssemblyReference.cache
 C:\github\LocalizadorDeEndereco\LocalizadorDeEndereco\obj\Debug\net6.0-windows\LocalizadorDeEndereco.csproj.CopyComplete
+C:\github\LocalizadorDeEndereco\LocalizadorDeEndereco\bin\Debug\net6.0-windows\pt-BR\LocalizadorDeEndereco.resources.dll
+C:\github\LocalizadorDeEndereco\LocalizadorDeEndereco\obj\Debug\net6.0-windows\LocalizadorDeEndereco.Form1.pt-BR.resources
+C:\github\LocalizadorDeEndereco\LocalizadorDeEndereco\obj\Debug\net6.0-windows\pt-BR\LocalizadorDeEndereco.resources.dll

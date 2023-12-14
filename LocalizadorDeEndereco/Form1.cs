@@ -11,10 +11,21 @@ namespace LocalizadorDeEndereco
 
         private void buttonPesquisar_Click(object sender, EventArgs e)
         {
-            LocalizaEndereco buscar = new LocalizaEndereco();
-            string cep = maskedTextBoxCep.Text;
-            var endereco = buscar.PorCep(cep);
-            richTextBoxResultado.Text = endereco.ToString();
+            try
+            {
+                LocalizaEndereco buscar = new LocalizaEndereco();
+                string cep = maskedTextBoxCep.Text;
+                var endereco = buscar.PorCep(cep);
+                richTextBoxResultado.Text = endereco.ToString();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Cep Inválido");
+            }
+
+
+
+
         }
     }
 }
