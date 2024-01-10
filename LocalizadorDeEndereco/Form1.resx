@@ -117,640 +117,640 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="comboBoxUF.Items11" xml:space="preserve">
-    <value>MS</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 15</value>
+  <data name="groupBoxPesquisaLogradouro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 7</value>
   </data>
-  <data name="&gt;&gt;labelLogradouro.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="comboBox1.Items22" xml:space="preserve">
-    <value>RS</value>
+  <data name="&gt;&gt;groupBoxPesquisaPorCep.Name" xml:space="preserve">
+    <value>groupBoxPesquisaPorCep</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="labelCep.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="groupBoxPesquisaLogradouro.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
-  <data name="&gt;&gt;groupBoxPesquisaLogradouro.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="comboBox1.Items24" xml:space="preserve">
+    <value>SE</value>
   </data>
-  <data name="&gt;&gt;buttonPesquisaCEP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="richTextBoxResultado.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
   </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBox1.Items" xml:space="preserve">
-    <value>AC</value>
-  </data>
-  <data name="buttonPesquisar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
-  </data>
-  <data name="comboBox1.Items14" xml:space="preserve">
-    <value>PB</value>
-  </data>
-  <data name="&gt;&gt;labelCEP.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;labelCEP.Parent" xml:space="preserve">
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
     <value>groupBoxPesquisaPorCep</value>
   </data>
   <data name="&gt;&gt;maskedTextBoxCep.Type" xml:space="preserve">
     <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;buttonPesquisar.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>436, 37</value>
   </data>
-  <data name="comboBox1.Items8" xml:space="preserve">
-    <value>GO</value>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="maskedTextBoxCEP.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="comboBoxUF.Items10" xml:space="preserve">
-    <value>MG</value>
-  </data>
-  <data name="&gt;&gt;labelLogradouro.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;richTextBoxResultado.Name" xml:space="preserve">
-    <value>richTextBoxResultado</value>
-  </data>
-  <data name="&gt;&gt;textBoxLogradouro.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;textBoxCidade.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBoxUF.Items7" xml:space="preserve">
-    <value>ES</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBoxPesquisaLogradouro.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 7</value>
-  </data>
-  <data name="&gt;&gt;richTextBoxResultado.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBoxPesquisaPorCep.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBox1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="richTextBoxResultado.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;dataGridViewresultado.Name" xml:space="preserve">
-    <value>dataGridViewresultado</value>
-  </data>
-  <data name="textBoxLogradouro.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="labelUf.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="comboBoxUF.Items19" xml:space="preserve">
-    <value>RN</value>
-  </data>
-  <data name="labelLogradouro.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 19</value>
-  </data>
-  <data name="&gt;&gt;labelCep.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBox1.Items6" xml:space="preserve">
-    <value>DF</value>
-  </data>
-  <data name="comboBox1.Items11" xml:space="preserve">
-    <value>MS</value>
-  </data>
-  <data name="buttonPesquisar.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBoxCEP.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="comboBox1.Items2" xml:space="preserve">
-    <value>AM</value>
-  </data>
-  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaPorCep</value>
-  </data>
-  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 19</value>
-  </data>
-  <data name="dataGridView1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="comboBox1.Items3" xml:space="preserve">
-    <value>AP</value>
-  </data>
-  <data name="comboBox1.Items19" xml:space="preserve">
-    <value>RN</value>
-  </data>
-  <data name="buttonPesquisaCEP.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 23</value>
-  </data>
-  <data name="&gt;&gt;comboBoxUF.Name" xml:space="preserve">
-    <value>comboBoxUF</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPesquisaPorCep.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="richTextBoxResultado.Size" type="System.Drawing.Size, System.Drawing">
-    <value>233, 166</value>
-  </data>
-  <data name="comboBox1.Items20" xml:space="preserve">
-    <value>RO</value>
-  </data>
-  <data name="&gt;&gt;dataGridViewresultado.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="maskedTextBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>167, 41</value>
-  </data>
-  <data name="&gt;&gt;richTextBoxResultado.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaPorCep</value>
-  </data>
-  <data name="&gt;&gt;textBoxCidade.Name" xml:space="preserve">
-    <value>textBoxCidade</value>
-  </data>
-  <data name="maskedTextBoxCEP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>167, 41</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBoxCep.Name" xml:space="preserve">
-    <value>maskedTextBoxCep</value>
-  </data>
-  <data name="maskedTextBoxCep.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="comboBoxUF.Items3" xml:space="preserve">
-    <value>AP</value>
-  </data>
-  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="comboBox1.Items12" xml:space="preserve">
-    <value>MT</value>
-  </data>
-  <data name="comboBoxUF.Items5" xml:space="preserve">
-    <value>CE</value>
-  </data>
-  <data name="comboBox1.Items26" xml:space="preserve">
-    <value>TO</value>
-  </data>
-  <data name="comboBoxUF.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;labelCep.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="comboBox1.Items7" xml:space="preserve">
-    <value>ES</value>
-  </data>
-  <data name="labelCep.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <data name="comboBox1.Items25" xml:space="preserve">
-    <value>SP</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>536, 244</value>
-  </data>
-  <data name="comboBoxUF.Items25" xml:space="preserve">
-    <value>SP</value>
-  </data>
-  <data name="comboBox1.Items5" xml:space="preserve">
-    <value>CE</value>
-  </data>
-  <data name="comboBox1.Items13" xml:space="preserve">
-    <value>PA</value>
-  </data>
-  <data name="&gt;&gt;dataGridView1.Name" xml:space="preserve">
-    <value>dataGridView1</value>
-  </data>
   <data name="&gt;&gt;dataGridView1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>275, 48</value>
-  </data>
-  <data name="comboBoxUF.Items15" xml:space="preserve">
-    <value>PE</value>
-  </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaPorCep</value>
-  </data>
-  <data name="&gt;&gt;textBoxCidade.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <data name="&gt;&gt;dataGridView1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="labelCep.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 15</value>
-  </data>
-  <data name="comboBox1.Items24" xml:space="preserve">
-    <value>SE</value>
-  </data>
-  <data name="comboBoxUF.Items16" xml:space="preserve">
-    <value>PI</value>
-  </data>
-  <data name="button1.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="comboBoxUF.Items9" xml:space="preserve">
-    <value>MA</value>
-  </data>
-  <data name="maskedTextBoxCep.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 23</value>
-  </data>
-  <data name="comboBoxUF.Items18" xml:space="preserve">
-    <value>RJ</value>
-  </data>
-  <data name="comboBoxUF.Items26" xml:space="preserve">
-    <value>TO</value>
-  </data>
-  <data name="richTextBoxResultado.Location" type="System.Drawing.Point, System.Drawing">
-    <value>260, 28</value>
-  </data>
-  <data name="comboBox1.Items17" xml:space="preserve">
-    <value>PR</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBoxCep.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;labelCEP.Name" xml:space="preserve">
-    <value>labelCEP</value>
-  </data>
-  <data name="comboBoxUF.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 23</value>
-  </data>
-  <data name="&gt;&gt;dataGridViewresultado.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="labelCEP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>116, 49</value>
-  </data>
-  <data name="groupBoxPesquisaLogradouro.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;labelUf.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;buttonPesquisaCEP.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaPorCep</value>
-  </data>
-  <data name="comboBox1.Items18" xml:space="preserve">
-    <value>RJ</value>
-  </data>
-  <data name="comboBoxUF.Items22" xml:space="preserve">
-    <value>RS</value>
-  </data>
-  <data name="textBoxLogradouro.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 37</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBoxCEP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;buttonPesquisaCEP.Name" xml:space="preserve">
-    <value>buttonPesquisaCEP</value>
-  </data>
-  <data name="maskedTextBoxCep.Location" type="System.Drawing.Point, System.Drawing">
-    <value>33, 49</value>
-  </data>
-  <data name="&gt;&gt;comboBoxUF.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>222, 37</value>
-  </data>
-  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
-    <value>comboBox1</value>
-  </data>
-  <data name="labelCEP.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;richTextBoxResultado.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPesquisaLogradouro.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 223</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBoxCep.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
   <data name="&gt;&gt;comboBoxUF.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="comboBoxUF.Items13" xml:space="preserve">
-    <value>PA</value>
+  <data name="&gt;&gt;maskedTextBoxCep.Name" xml:space="preserve">
+    <value>maskedTextBoxCep</value>
   </data>
-  <data name="comboBoxUF.Items20" xml:space="preserve">
-    <value>RO</value>
+  <data name="comboBox1.Items19" xml:space="preserve">
+    <value>RN</value>
   </data>
-  <data name="labelLogradouro.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;labelCidade.Name" xml:space="preserve">
-    <value>labelCidade</value>
-  </data>
-  <data name="comboBox1.Items9" xml:space="preserve">
-    <value>MA</value>
-  </data>
-  <data name="groupBoxPesquisaPorCep.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 117</value>
-  </data>
-  <data name="comboBoxUF.Items17" xml:space="preserve">
-    <value>PR</value>
-  </data>
-  <data name="&gt;&gt;comboBoxUF.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <data name="&gt;&gt;buttonPesquisar.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="textBoxCidade.Location" type="System.Drawing.Point, System.Drawing">
-    <value>222, 37</value>
-  </data>
-  <data name="&gt;&gt;textBoxLogradouro.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;labelCep.Name" xml:space="preserve">
-    <value>labelCep</value>
-  </data>
-  <data name="comboBox1.Items1" xml:space="preserve">
-    <value>AL</value>
-  </data>
-  <data name="comboBoxUF.Items4" xml:space="preserve">
-    <value>BA</value>
-  </data>
-  <data name="buttonPesquisar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>47, 171</value>
-  </data>
-  <data name="comboBoxUF.Items24" xml:space="preserve">
-    <value>SE</value>
-  </data>
-  <data name="&gt;&gt;labelCidade.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBox1.Items16" xml:space="preserve">
-    <value>PI</value>
-  </data>
-  <data name="comboBoxUF.Items1" xml:space="preserve">
-    <value>AL</value>
-  </data>
-  <data name="labelCidade.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="comboBoxUF.Items23" xml:space="preserve">
-    <value>SC</value>
-  </data>
-  <data name="&gt;&gt;labelLogradouro.Name" xml:space="preserve">
-    <value>labelLogradouro</value>
-  </data>
-  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <data name="comboBoxUF.Items2" xml:space="preserve">
-    <value>AM</value>
-  </data>
-  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>436, 37</value>
-  </data>
-  <data name="labelCidade.Location" type="System.Drawing.Point, System.Drawing">
-    <value>222, 19</value>
-  </data>
-  <data name="buttonPesquisar.Text" xml:space="preserve">
-    <value>Pesquisar</value>
-  </data>
-  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 37</value>
-  </data>
-  <data name="comboBox1.Items23" xml:space="preserve">
-    <value>SC</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;labelCEP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBoxUF.Items6" xml:space="preserve">
-    <value>DF</value>
-  </data>
-  <data name="&gt;&gt;labelUf.Name" xml:space="preserve">
-    <value>labelUf</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBoxCEP.Name" xml:space="preserve">
-    <value>maskedTextBoxCEP</value>
-  </data>
-  <data name="comboBoxUF.Location" type="System.Drawing.Point, System.Drawing">
-    <value>436, 37</value>
-  </data>
-  <data name="dataGridViewresultado.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;maskedTextBox1.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaPorCep</value>
-  </data>
-  <data name="textBoxCidade.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;labelUf.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPesquisaPorCep.Name" xml:space="preserve">
-    <value>groupBoxPesquisaPorCep</value>
-  </data>
-  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
-    <value>textBox1</value>
-  </data>
-  <data name="&gt;&gt;dataGridViewresultado.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;textBoxLogradouro.Name" xml:space="preserve">
-    <value>textBoxLogradouro</value>
-  </data>
-  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBox1.Items15" xml:space="preserve">
-    <value>PE</value>
-  </data>
-  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="richTextBoxResultado.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="labelUf.Location" type="System.Drawing.Point, System.Drawing">
-    <value>436, 19</value>
-  </data>
-  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;labelCidade.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <data name="comboBoxUF.Items" xml:space="preserve">
-    <value>AC</value>
-  </data>
-  <data name="comboBoxUF.Items8" xml:space="preserve">
-    <value>GO</value>
-  </data>
-  <data name="comboBoxUF.Items12" xml:space="preserve">
-    <value>MT</value>
-  </data>
-  <data name="&gt;&gt;textBoxLogradouro.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPesquisaLogradouro.Name" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
-  </data>
-  <data name="comboBox1.Items21" xml:space="preserve">
-    <value>RR</value>
+  <data name="comboBoxUF.Items10" xml:space="preserve">
+    <value>MG</value>
   </data>
   <data name="&gt;&gt;groupBoxPesquisaPorCep.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+  <data name="buttonPesquisaCEP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 45</value>
+  </data>
+  <data name="maskedTextBoxCep.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;label3.Name" xml:space="preserve">
-    <value>label3</value>
+  <data name="comboBox1.Items16" xml:space="preserve">
+    <value>PI</value>
   </data>
-  <data name="&gt;&gt;maskedTextBox1.Name" xml:space="preserve">
-    <value>maskedTextBox1</value>
+  <data name="&gt;&gt;dataGridView1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="maskedTextBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;buttonPesquisar.Name" xml:space="preserve">
-    <value>buttonPesquisar</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
   </data>
-  <data name="comboBox1.Items4" xml:space="preserve">
-    <value>BA</value>
+  <data name="labelCidade.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
   </data>
-  <data name="&gt;&gt;dataGridView1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="comboBoxUF.Items" xml:space="preserve">
+    <value>AC</value>
   </data>
-  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
-    <value>textBox2</value>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>275, 48</value>
   </data>
-  <data name="&gt;&gt;labelUf.Parent" xml:space="preserve">
-    <value>groupBoxPesquisaLogradouro</value>
+  <data name="&gt;&gt;textBoxCidade.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;labelCep.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaPorCep</value>
   </data>
-  <data name="dataGridViewresultado.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 223</value>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaPorCep</value>
+  </data>
+  <data name="comboBoxUF.Items16" xml:space="preserve">
+    <value>PI</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="richTextBoxResultado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 28</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelCidade.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;buttonPesquisaCEP.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="textBoxLogradouro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 37</value>
+  </data>
+  <data name="labelCEP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 49</value>
+  </data>
+  <data name="&gt;&gt;textBoxCidade.Name" xml:space="preserve">
+    <value>textBoxCidade</value>
+  </data>
+  <data name="&gt;&gt;labelCEP.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;richTextBoxResultado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBoxPesquisaPorCep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 117</value>
+  </data>
+  <data name="maskedTextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewresultado.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="comboBoxUF.Items4" xml:space="preserve">
+    <value>BA</value>
+  </data>
+  <data name="comboBox1.Items22" xml:space="preserve">
+    <value>RS</value>
+  </data>
+  <data name="labelCidade.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 19</value>
+  </data>
+  <data name="comboBoxUF.Items15" xml:space="preserve">
+    <value>PE</value>
+  </data>
+  <data name="&gt;&gt;comboBoxUF.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="comboBox1.Items7" xml:space="preserve">
+    <value>ES</value>
+  </data>
+  <data name="comboBox1.Items23" xml:space="preserve">
+    <value>SC</value>
+  </data>
+  <data name="textBoxCidade.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="comboBox1.Items13" xml:space="preserve">
+    <value>PA</value>
+  </data>
+  <data name="&gt;&gt;buttonPesquisar.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="&gt;&gt;labelCidade.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="comboBox1.Items8" xml:space="preserve">
+    <value>GO</value>
+  </data>
+  <data name="labelLogradouro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 19</value>
+  </data>
+  <data name="&gt;&gt;textBoxCidade.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="comboBoxUF.Items11" xml:space="preserve">
+    <value>MS</value>
+  </data>
+  <data name="comboBoxUF.Items3" xml:space="preserve">
+    <value>AP</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBoxCEP.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>AL</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxLogradouro.Name" xml:space="preserve">
+    <value>textBoxLogradouro</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBoxCep.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="comboBox1.Items15" xml:space="preserve">
+    <value>PE</value>
+  </data>
+  <data name="dataGridView1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelCidade.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="comboBoxUF.Items23" xml:space="preserve">
+    <value>SC</value>
+  </data>
+  <data name="groupBoxPesquisaPorCep.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 19</value>
+  </data>
+  <data name="comboBox1.Items9" xml:space="preserve">
+    <value>MA</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="comboBoxUF.Items20" xml:space="preserve">
+    <value>RO</value>
+  </data>
+  <data name="&gt;&gt;richTextBoxResultado.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelUf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>436, 19</value>
   </data>
   <data name="&gt;&gt;buttonPesquisar.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="comboBoxUF.Items21" xml:space="preserve">
-    <value>RR</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPesquisaPorCep.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="comboBoxUF.Items14" xml:space="preserve">
     <value>PB</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="comboBox1.Items11" xml:space="preserve">
+    <value>MS</value>
+  </data>
+  <data name="comboBoxUF.Items25" xml:space="preserve">
+    <value>SP</value>
+  </data>
+  <data name="comboBoxUF.Items18" xml:space="preserve">
+    <value>RJ</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewresultado.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="comboBoxUF.Items22" xml:space="preserve">
+    <value>RS</value>
+  </data>
+  <data name="comboBox1.Items21" xml:space="preserve">
+    <value>RR</value>
+  </data>
+  <data name="comboBox1.Items18" xml:space="preserve">
+    <value>RJ</value>
+  </data>
+  <data name="buttonPesquisar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 171</value>
+  </data>
+  <data name="&gt;&gt;labelCep.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxCidade.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 37</value>
   </data>
   <data name="&gt;&gt;labelLogradouro.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;groupBoxPesquisaLogradouro.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="richTextBoxResultado.Text" xml:space="preserve">
+    <value />
   </data>
-  <data name="labelCep.Location" type="System.Drawing.Point, System.Drawing">
-    <value>47, 31</value>
+  <data name="comboBoxUF.Items7" xml:space="preserve">
+    <value>ES</value>
   </data>
-  <data name="comboBox1.Items10" xml:space="preserve">
-    <value>MG</value>
+  <data name="labelCEP.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
-  <data name="&gt;&gt;textBoxCidade.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 37</value>
   </data>
-  <data name="buttonPesquisaCEP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 45</value>
+  <data name="&gt;&gt;dataGridView1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewresultado.Name" xml:space="preserve">
+    <value>dataGridViewresultado</value>
+  </data>
+  <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="maskedTextBoxCEP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 41</value>
+  </data>
+  <data name="&gt;&gt;textBoxLogradouro.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="comboBoxUF.Items2" xml:space="preserve">
+    <value>AM</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPesquisaLogradouro.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="comboBox1.Items20" xml:space="preserve">
+    <value>RO</value>
+  </data>
+  <data name="comboBoxUF.Items17" xml:space="preserve">
+    <value>PR</value>
+  </data>
+  <data name="comboBoxUF.Items12" xml:space="preserve">
+    <value>MT</value>
+  </data>
+  <data name="&gt;&gt;labelCep.Name" xml:space="preserve">
+    <value>labelCep</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="maskedTextBoxCep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="&gt;&gt;buttonPesquisar.Name" xml:space="preserve">
+    <value>buttonPesquisar</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 223</value>
+  </data>
+  <data name="comboBoxUF.Items21" xml:space="preserve">
+    <value>RR</value>
+  </data>
+  <data name="buttonPesquisar.Text" xml:space="preserve">
+    <value>Pesquisar</value>
+  </data>
+  <data name="&gt;&gt;labelUf.Name" xml:space="preserve">
+    <value>labelUf</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBoxCep.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;buttonPesquisaCEP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dataGridViewresultado.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;comboBoxUF.Name" xml:space="preserve">
+    <value>comboBoxUF</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="labelCep.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="comboBoxUF.Items9" xml:space="preserve">
+    <value>MA</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPesquisaPorCep.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="dataGridViewresultado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 223</value>
+  </data>
+  <data name="comboBox1.Items25" xml:space="preserve">
+    <value>SP</value>
+  </data>
+  <data name="&gt;&gt;labelCEP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="labelCep.Text" xml:space="preserve">
-    <value>Digite o Cep:</value>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="comboBoxUF.Items13" xml:space="preserve">
+    <value>PA</value>
+  </data>
+  <data name="comboBox1.Items14" xml:space="preserve">
+    <value>PB</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPesquisaLogradouro.Name" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="&gt;&gt;labelLogradouro.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxUF.Items19" xml:space="preserve">
+    <value>RN</value>
+  </data>
+  <data name="comboBoxUF.Items1" xml:space="preserve">
+    <value>AL</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPesquisaPorCep.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelCep.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelUf.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="maskedTextBoxCEP.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="comboBox1.Items26" xml:space="preserve">
+    <value>TO</value>
+  </data>
+  <data name="&gt;&gt;labelUf.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="comboBox1.Items6" xml:space="preserve">
+    <value>DF</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBoxCEP.Name" xml:space="preserve">
+    <value>maskedTextBoxCEP</value>
+  </data>
+  <data name="comboBox1.Items12" xml:space="preserve">
+    <value>MT</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaPorCep</value>
+  </data>
+  <data name="comboBoxUF.Items5" xml:space="preserve">
+    <value>CE</value>
+  </data>
+  <data name="&gt;&gt;richTextBoxResultado.Name" xml:space="preserve">
+    <value>richTextBoxResultado</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBoxCEP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBox1.Items17" xml:space="preserve">
+    <value>PR</value>
+  </data>
+  <data name="maskedTextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 41</value>
+  </data>
+  <data name="&gt;&gt;buttonPesquisaCEP.Name" xml:space="preserve">
+    <value>buttonPesquisaCEP</value>
+  </data>
+  <data name="&gt;&gt;buttonPesquisaCEP.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaPorCep</value>
+  </data>
+  <data name="richTextBoxResultado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>233, 166</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 37</value>
+  </data>
+  <data name="comboBoxUF.Items26" xml:space="preserve">
+    <value>TO</value>
+  </data>
+  <data name="&gt;&gt;labelCEP.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaPorCep</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.Name" xml:space="preserve">
+    <value>maskedTextBox1</value>
+  </data>
+  <data name="&gt;&gt;textBoxLogradouro.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonPesquisar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPesquisaLogradouro.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="comboBox1.Items4" xml:space="preserve">
+    <value>BA</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPesquisaLogradouro.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxCidade.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="comboBoxUF.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="&gt;&gt;labelCep.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelLogradouro.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
+    <value>comboBox1</value>
+  </data>
+  <data name="textBoxLogradouro.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Name" xml:space="preserve">
+    <value>dataGridView1</value>
+  </data>
+  <data name="maskedTextBoxCep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 49</value>
+  </data>
+  <data name="comboBox1.Items" xml:space="preserve">
+    <value>AC</value>
+  </data>
+  <data name="&gt;&gt;labelCidade.Name" xml:space="preserve">
+    <value>labelCidade</value>
+  </data>
+  <data name="comboBox1.Items3" xml:space="preserve">
+    <value>AP</value>
+  </data>
+  <data name="labelCep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 15</value>
+  </data>
+  <data name="&gt;&gt;labelUf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBoxUF.Location" type="System.Drawing.Point, System.Drawing">
+    <value>436, 37</value>
+  </data>
+  <data name="comboBoxUF.Items8" xml:space="preserve">
+    <value>GO</value>
+  </data>
+  <data name="&gt;&gt;buttonPesquisaCEP.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxLogradouro.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;labelLogradouro.Name" xml:space="preserve">
+    <value>labelLogradouro</value>
+  </data>
+  <data name="comboBoxUF.Items24" xml:space="preserve">
+    <value>SE</value>
   </data>
   <data name="&gt;&gt;maskedTextBoxCEP.Parent" xml:space="preserve">
     <value>groupBoxPesquisaPorCep</value>
   </data>
+  <data name="&gt;&gt;labelCEP.Name" xml:space="preserve">
+    <value>labelCEP</value>
+  </data>
+  <data name="&gt;&gt;labelCep.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="comboBoxUF.Items6" xml:space="preserve">
+    <value>DF</value>
+  </data>
+  <data name="labelCep.Text" xml:space="preserve">
+    <value>Digite o Cep:</value>
+  </data>
+  <data name="comboBox1.Items5" xml:space="preserve">
+    <value>CE</value>
+  </data>
+  <data name="comboBox1.Items10" xml:space="preserve">
+    <value>MG</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewresultado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxUF.Parent" xml:space="preserve">
+    <value>groupBoxPesquisaLogradouro</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="comboBoxUF.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="buttonPesquisar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="buttonPesquisaCEP.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>536, 244</value>
+  </data>
+  <data name="&gt;&gt;buttonPesquisar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelUf.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="comboBox1.Items2" xml:space="preserve">
+    <value>AM</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="&gt;&gt;richTextBoxResultado.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="labelLogradouro.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="labelCep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 31</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>pt-BR</value>
+  </metadata>
   <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
-    <value>pt-BR</value>
   </metadata>
 </root>
