@@ -16,3 +16,6 @@ O aplicativo utiliza um ViaCep Clint do [guibranco](https://guibranco.github.io/
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 
 ## Como executar
+ - Realizar o Download do projeto e dentro do diretorio \LocalizadorDeEndereco\bin\Release\net6.0-windows\ executar .exe LocalizadorDeEndereco
+
+ ![](Imagens/01.png)
