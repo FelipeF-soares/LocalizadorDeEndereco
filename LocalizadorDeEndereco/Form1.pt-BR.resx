@@ -118,7 +118,132 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dataGridViewresultado.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="dataGridViewresultado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>584, 138</value>
+  </data>
+  <data name="textBoxLogradouro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 23</value>
+  </data>
+  <data name="textBoxCidade.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 23</value>
+  </data>
+  <data name="groupBoxPesquisaLogradouro.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="buttonPesquisar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 66</value>
+  </data>
+  <data name="buttonPesquisar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 23</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="buttonPesquisar.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="labelUf.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelUf.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>24, 15</value>
+  </data>
+  <data name="labelUf.Text" xml:space="preserve">
+    <value>UF:</value>
+  </data>
+  <data name="labelCidade.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelCidade.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelCidade.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 15</value>
+  </data>
+  <data name="labelCidade.Text" xml:space="preserve">
+    <value>Cidade:</value>
+  </data>
+  <data name="labelLogradouro.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelLogradouro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 15</value>
+  </data>
+  <data name="labelLogradouro.Text" xml:space="preserve">
+    <value>Logradouro:</value>
+  </data>
+  <data name="groupBoxPesquisaLogradouro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>563, 100</value>
+  </data>
+  <data name="groupBoxPesquisaLogradouro.Text" xml:space="preserve">
+    <value>Pesquisa por Logradouro</value>
+  </data>
+  <data name="groupBoxPesquisaPorCep.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="maskedTextBoxCEP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="maskedTextBoxCEP.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="maskedTextBoxCEP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 41</value>
+  </data>
+  <data name="maskedTextBoxCEP.Mask" xml:space="preserve">
+    <value>00000-999</value>
+  </data>
+  <data name="maskedTextBoxCEP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 29</value>
+  </data>
+  <data name="buttonPesquisaCEP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="buttonPesquisaCEP.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonPesquisaCEP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 23</value>
+  </data>
+  <data name="buttonPesquisaCEP.Text" xml:space="preserve">
+    <value>Pesquisar</value>
+  </data>
+  <data name="labelCEP.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="labelCEP.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelCEP.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelCEP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>92, 53</value>
+  </data>
+  <data name="labelCEP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 15</value>
+  </data>
+  <data name="labelCEP.Text" xml:space="preserve">
+    <value>CEP:</value>
+  </data>
+  <data name="groupBoxPesquisaPorCep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>563, 100</value>
+  </data>
+  <data name="groupBoxPesquisaPorCep.Text" xml:space="preserve">
+    <value>Pesquisa por CEP:</value>
+  </data>
   <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>584, 361</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Pesquisa CEP</value>
   </data>
 </root>
