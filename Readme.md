@@ -1,4 +1,4 @@
-# Localizador de CEP
+# Localizador de Endereço
 
 Este é um aplicativo Windows Forms em .NET 6 e C# que permite localizar o CEP por meio do nome do logradouro, cidade e UF, bem como localizar os dados 
 do endereço por meio do CEP. <br>
