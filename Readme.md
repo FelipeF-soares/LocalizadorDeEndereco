@@ -1,4 +1,4 @@
-# Localizador de CEP
+# Localizador de Endereço
 
 Este é um aplicativo Windows Forms em .NET 6 e C# que permite localizar o CEP por meio do nome do logradouro, cidade e UF, bem como localizar os dados 
 do endereço por meio do CEP. <br>
@@ -16,6 +16,9 @@ O aplicativo utiliza um ViaCep Clint do [guibranco](https://guibranco.github.io/
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 
 ## Como executar
+<<<<<<< HEAD
  - Realizar o Download do projeto e dentro do diretorio \LocalizadorDeEndereco\bin\Release\net6.0-windows\ executar .exe LocalizadorDeEndereco
 
  ![](Imagens/01.png)
+=======
+>>>>>>> 20f2073079b280a5330d1851e02493ff4e8f5dc8
